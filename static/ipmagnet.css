@@ -1,0 +1,83 @@
+body{
+	width:95%;
+	height:100%;
+	margin:1em auto;
+}
+
+h1{
+	padding:0;
+	margin:0;
+	display:inline-block;
+}
+
+a {
+	text-decoration:none;
+}
+
+#center-wrap{
+	width:90%;
+	margin:auto;
+}
+
+#content-main{
+	border-radius:1em;
+	background-color:#ccc;
+	margin-top:1em;
+	padding:2em;
+}
+
+#title-wrap{
+	text-align:center;
+}
+
+#mission-statement{
+	font-style:italic;
+	margin-bottom:1em;
+	text-align:center;
+	font-size:90%;
+}
+
+#app-links{
+	float:right;
+	padding-right:2em;
+}
+
+.app-link{
+	background-color:#eee;
+	border-radius:0.2em;
+	padding:0.2em;
+}
+
+.app-link:hover{
+	background-color:#ddd;
+}
+
+#current-connections{
+	margin-top:2em;
+}
+
+#conn-table{
+	width:100%;
+	clear:both;
+}
+
+#conn-table td {
+	background-color:#e2e2e2;
+	border-bottom:1px solid #eee;
+	border-top:1px solid #eee;
+}
+
+#meta-footer{
+	float:right;
+	font-size:90%;
+	color:#999;
+}
+
+#status-line{
+	float:left;
+}
+
+#remote-ip{
+	font-weight:bold;
+}
+
