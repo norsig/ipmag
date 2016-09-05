@@ -1,4 +1,7 @@
 # ipmag
+
+<a href="https://northernsignal.com"><img src="https://northernsignal.com/norsiglogo802.png"></a>
+
 Find out what ip address is being handed out to torrent trackers.
 
 ipmag allows you to quickly check what adresses your BitTorrent client
